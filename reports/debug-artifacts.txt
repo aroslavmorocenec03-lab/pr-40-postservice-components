@@ -1,0 +1,10 @@
+PostService.CommonTypes.dll : OK
+PostService.CommonTypes.pdb : OK
+PostService.Models.dll : OK
+PostService.Models.pdb : OK
+PostService.Dtos.dll : OK
+PostService.Dtos.pdb : OK
+PostService.BusinessLogic.dll : OK
+PostService.BusinessLogic.pdb : OK
+PostService.dll : OK
+PostService.pdb : OK

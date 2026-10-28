@@ -1,0 +1,32 @@
+dotnet sln PostService.slnx list
+Project(s)
+----------
+PostService.BusinessLogic\PostService.BusinessLogic.csproj
+PostService.CommonTypes\PostService.CommonTypes.csproj
+PostService.Dtos\PostService.Dtos.csproj
+PostService.Models\PostService.Models.csproj
+PostService\PostService.csproj
+
+PostService.CommonTypes — ProjectReference:
+There are no Project to Project references in project PostService.CommonTypes/PostService.CommonTypes.csproj.
+
+PostService.Models — ProjectReference:
+Project reference(s)
+--------------------
+..\PostService.CommonTypes\PostService.CommonTypes.csproj
+
+PostService.Dtos — ProjectReference:
+Project reference(s)
+--------------------
+..\PostService.CommonTypes\PostService.CommonTypes.csproj
+
+PostService.BusinessLogic — ProjectReference:
+Project reference(s)
+--------------------
+..\PostService.Models\PostService.Models.csproj
+
+PostService — ProjectReference:
+Project reference(s)
+--------------------
+..\PostService.BusinessLogic\PostService.BusinessLogic.csproj
+..\PostService.Dtos\PostService.Dtos.csproj

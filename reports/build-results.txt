@@ -1,0 +1,82 @@
+dotnet build PostService.CommonTypes/PostService.CommonTypes.csproj
+  Determining projects to restore...
+  Restored C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\PostService.CommonTypes.csproj (in 47 ms).
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.89
+ExitCode: 0
+dotnet build PostService.Models/PostService.Models.csproj
+  Determining projects to restore...
+  Restored C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Models\PostService.Models.csproj (in 69 ms).
+  1 of 2 projects are up-to-date for restore.
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+  PostService.Models -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Models\bin\Debug\net10.0\PostService.Models.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.96
+ExitCode: 0
+dotnet build PostService.Dtos/PostService.Dtos.csproj
+  Determining projects to restore...
+  Restored C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Dtos\PostService.Dtos.csproj (in 68 ms).
+  1 of 2 projects are up-to-date for restore.
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+  PostService.Dtos -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.96
+ExitCode: 0
+dotnet build PostService.BusinessLogic/PostService.BusinessLogic.csproj
+  Determining projects to restore...
+  Restored C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.BusinessLogic\PostService.BusinessLogic.csproj (in 67 ms).
+  2 of 3 projects are up-to-date for restore.
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+  PostService.Models -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Models\bin\Debug\net10.0\PostService.Models.dll
+  PostService.BusinessLogic -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.51
+ExitCode: 0
+dotnet build PostService/PostService.csproj
+  Determining projects to restore...
+  Restored C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService\PostService.csproj (in 71 ms).
+  4 of 5 projects are up-to-date for restore.
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+  PostService.Models -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Models\bin\Debug\net10.0\PostService.Models.dll
+  PostService.Dtos -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.dll
+  PostService.BusinessLogic -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+  PostService -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService\bin\Debug\net10.0\PostService.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.97
+ExitCode: 0
+dotnet build PostService.slnx
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  PostService.CommonTypes -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+  PostService.Models -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Models\bin\Debug\net10.0\PostService.Models.dll
+  PostService.Dtos -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.dll
+  PostService.BusinessLogic -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+  PostService -> C:\Users\Asus\Documents\Codex\2026-10-23\x20\outputs\pr-40-postservice-components\PostServiceSolution\PostService\bin\Debug\net10.0\PostService.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.27
+ExitCode: 0

@@ -1,0 +1,3 @@
+fernandoescolar.vscode-solution-explorer@0.9.8
+humao.rest-client@0.25.1
+ms-dotnettools.csharp@2.160.4
